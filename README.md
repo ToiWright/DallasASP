@@ -1,2 +1,2 @@
-DallasASP
+Dallas ASP.NET User Group
 =========
